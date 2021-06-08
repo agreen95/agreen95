@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agreen95
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and I'm currently training with FDM.
 - 🌱 I’m currently searching for software development jobs
 
 <!---
