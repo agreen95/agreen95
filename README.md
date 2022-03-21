@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agreen95
 - 👀 I’m interested in software development
-- 🤓 I'm currently training with FDM.
+- 🤓 Backend Software Development experience
 - 🤓 I studied Computer Science at the University of York (PgDip)
 
 <!---
