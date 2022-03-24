@@ -9,16 +9,16 @@ I am an analytical computer science graduate with a passion for learning new tec
 I am in the process of updating my Github with locally saved projects. For the time being please take a look at the following repos.
 
 ## bookStore
-Online bookstore application
-Skills / Technology used -> Spring MVC framework; Java EE (JDBC, JSP, JPA); Maven; HTML; CSS; 3 tier architecture; SOLID principles; OOP.
+* Online bookstore application
+* Skills / Technology used -> Spring MVC framework; Java EE (JDBC, JSP, JPA); Maven; HTML; CSS; 3 tier architecture; SOLID principles; OOP.
 
 ## adventOfCode2021
-Advent of Code coding challenge solutions. (https://adventofcode.com/).
-Skill / Technology used -> Python, Pandas, Data Stuctures and Algorithms, AI search algorithms.
+* Advent of Code coding challenge solutions. (https://adventofcode.com/).
+* Skill / Technology used -> Python, Pandas, Data Stuctures and Algorithms, AI search algorithms.
 
 ## UniPythonAutomation
-Automated data processing application.
-Skills / Technology used -> Python, Pandas, Data preparation, GUI programming, 
+* Automated data processing application.
+* Skills / Technology used -> Python, Pandas, Data preparation, GUI programming, 
 
 
 <!---
