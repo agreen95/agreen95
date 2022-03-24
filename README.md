@@ -4,7 +4,7 @@
 
 
 ## Headline
-I am an analytical computer science graduate with a passion for learning new technologies and improving as software engineer. I have backend software engineering experience, in the financial services sector. I am particularly interested in building distributed data intensive applications, and keen to gain more experience in a range of interesting projects. M
+I am an analytical computer science graduate with a passion for learning new technologies and improving as software engineer. I have backend software engineering experience, in the financial services sector. I am particularly interested in building distributed data intensive applications, and keen to gain more experience in a range of interesting projects.
 
 I am in the process of updating my Github with locally saved projects. For the time being please take a look at the following repos.
 
