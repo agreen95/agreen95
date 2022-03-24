@@ -16,7 +16,7 @@ I am in the process of updating my Github with locally saved projects. For the t
 * Advent of Code coding challenge solutions. (https://adventofcode.com/).
 * Skill / Technology used -> Python, Pandas, Data Stuctures and Algorithms, AI search algorithms.
 
-## automatedDataProcessing
+## automationProject
 * Automated data processing application working with csv / JSON data.
 * Skills / Technology used -> Python, Pandas, Data preparation, GUI programming, 
 
