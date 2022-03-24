@@ -9,7 +9,7 @@ I am an analytical computer science graduate with a passion for learning new tec
 I am in the process of updating my Github with locally saved projects. For the time being please take a look at the following repos.
 
 ## bookStore
-Online bookstore built with Spring MVC
+Online bookstore application
 Skills / Technology used -> Spring MVC framework; Java EE (JDBC, JSP, JPA); Maven; HTML; CSS; 3 tier architecture; SOLID principles; OOP.
 
 ## adventOfCode2021
