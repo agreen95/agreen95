@@ -20,8 +20,9 @@ I am in the process of updating my Github with locally saved projects. For the t
 * Advent of Code coding challenge solutions. (https://adventofcode.com/).
 * Skill / Technology used -> Python, Pandas, Data Stuctures and Algorithms, AI search algorithms.
 
-# JUnit Framwork Example
-Simple example of JUnit to test methods for a catalogue of books (see class_diagram.jpg)
+## JUnit Framwork Example
+* Simple example of JUnit to test methods for a catalogue of books (see class_diagram.jpg)
+* Skill / Technology used -> Java, Junit, TDD, OOP.
 
 
 
