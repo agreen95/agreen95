@@ -12,20 +12,9 @@ I am in the process of updating my Github with locally saved projects. For the t
 * Online bookstore application
 * Skills / Technology used -> Spring MVC framework; Java EE (JDBC, JSP, JPA); Maven; HTML; CSS; 3 tier architecture; SOLID principles; OOP.
 
-## JUnit / Mockito test framework example
-Used JUnit and Mockito to test the folling simple classes:
-* Catalogue class retreives correct number of books
-* UserManager class authenticates a user
-* AdminUserManager class creates multiple users
-* Skill / Technology used -> Java, Junit, Maven, Mockito (mocking / stubbing), TDD, OOP.
-
 ## automationProject
 * Automated data processing application working with csv / JSON data.
 * Skills / Technology used -> Python, Pandas, Data preparation, GUI programming, 
-
-## adventOfCode2021
-* Advent of Code coding challenge solutions. (https://adventofcode.com/).
-* Skill / Technology used -> Python, Pandas, Data Stuctures and Algorithms, AI search algorithms.
 
 
 <!---
