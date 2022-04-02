@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @agreen95. I am a Junior Server Developer at Playwind Games.
+- 👋 Hi, I’m @agreen95 - Junior Server Developer at Playwind Games.
 
-https://www.playwindgames.com/
 
 
 <!---
