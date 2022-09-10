@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @agreen95 - Junior Server Developer at Playwind Games.
-
-
+- 👋 Hi, I’m @agreen95 
 
 <!---
 agreen95/agreen95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
